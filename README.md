@@ -2,7 +2,7 @@
 
 ## Texto demarcado com ReactJS
 
-## Tecnologias e conhecimento utilizados
+## Tecnologias e conhecimentos utilizados
 - filter
 - map
 - hooks
